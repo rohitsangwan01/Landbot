@@ -1,6 +1,6 @@
 # Landbot
 
-Landbot is a wrapper over [landbot.io](https://landbot.io/) ,its a Bot Builder Service
+Landbot is a wrapper over [landbot.io](https://app.landbot.io/)  its a Bot Builder Service
 
 ## Features
 
